@@ -20,7 +20,7 @@ Whats Paint is an Art tool that every artist should have. The Application offers
 - User Friendly
 - Save & Share Pictures By Only One Click
 
-** Rooted Devices Are Currently Not Supported ! **
+** Some Rooted Devices With Custom Rom Are Currently Not Supported ! **
 
 Whatcraft Team
 
