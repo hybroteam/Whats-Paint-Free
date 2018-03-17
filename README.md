@@ -33,9 +33,9 @@ If Users Find Any Bugs , Please Report To Our Team !
 
 Whatcraft Team
 
-Facebook : Whatcraft Team
+[Facebook : Whatcraft Team](https://www.facebook.com/whatcraftteam)
 
-Instagram : Whatcraftteam
+[Instagram : Whatcraftteam](https://www.instagram.com/whatcraftteam)
 
 Website : https://whatcraft.net
 
